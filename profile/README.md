@@ -14,15 +14,15 @@ We build Metrolist, a free, open-source YouTube Music client.
 
 ## What we're working on
 
-Most development is focused on Metrolist KMP, our Kotlin Multiplatform app for Android, iOS, Windows, macOS, and Linux. It's almost ready for release. The repository is private for now. Ask on [Discord](https://dsc.gg/metrolist) for early access.
+Most development is focused on [Metrolist](https://metrolist.cc), a Kotlin Multiplatform YouTube Music client.
 
-The [existing Android app](https://github.com/MetrolistGroup/Metrolist) is in maintenance mode, with bug fixes and small improvements only.
+You can get it now [on our website](https://metrolist.cc).
 
 ## Projects
 
 | Repository | Description | Stack |
 |---|---|---|
-| [Metrolist](https://github.com/MetrolistGroup/Metrolist) | Current Android app, in maintenance mode | Kotlin |
+| [Metrolist](https://github.com/MetrolistGroup/Metrolist) | Current Multiplatform client | Kotlin |
 | [metroserver](https://github.com/MetrolistGroup/metroserver) | Backend for Listen Together, our shared playback feature | Go |
 | [innertubex](https://github.com/MetrolistGroup/innertubex) | InnerTube API client used by Metrolist | Kotlin |
 | [quackjs](https://github.com/MetrolistGroup/quackjs) | YouTube player signature handling in Kotlin, using Faraday hints | Kotlin |
@@ -34,7 +34,7 @@ The [existing Android app](https://github.com/MetrolistGroup/Metrolist) is in ma
 
 ## Get involved
 
-- Report bugs in the relevant repository above. For KMP access and feedback, join [Discord](https://dsc.gg/metrolist).
+- Report bugs in the relevant repository above. For sneak peeks and community, join [Discord](https://dsc.gg/metrolist).
 - Help translate the app on [Weblate](https://hosted.weblate.org/projects/Metrolist/).
 - Follow updates on [Telegram](https://t.me/metrolistapp).
 
